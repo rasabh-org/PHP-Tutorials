@@ -10,7 +10,7 @@
 </head>
 <body>
 <?php
-echo "<h3>Hello World!</h3>";
+echo "<h2>Hello World!</h2>";
 
 /**
  * phpversion() Library Function:
