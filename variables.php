@@ -13,7 +13,7 @@
 $num = 5;   // Numeric variable
 $name = "Raan Saurav Bhuyan";  // String variable
 
-echo "My name is $name<br>";
+echo "My name is $name.<br>";
 echo "My number is " . $name . ".<br>";
 echo "My age is " . $num . ".<br>";
 echo "My age is $num.<br>";
