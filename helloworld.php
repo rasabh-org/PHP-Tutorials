@@ -9,23 +9,23 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-echo "<h2>Hello World!</h2>";
+    <?php
+    echo "<h2>Hello World!</h2>";
 
-/**
- * phpversion() Library Function:
- * It returns the version number of the PHP.
- */
-echo "<a>The current PHP version is ", phpversion(), ".</a>";
+    /**
+     * phpversion() Library Function:
+     * It returns the version number of the PHP.
+     */
+    echo "<a>The current PHP version is ", phpversion(), ".</a>";
 
-echo "<h2>PHP Detailed Information:</h2>";
+    echo "<h2>PHP Detailed Information:</h2>";
 
-/**
- * phpinfo() Library Function:
- * It returns the overall detailed information of the
- * PHP environment.
- */
-phpinfo();
-?>
+    /**
+     * phpinfo() Library Function:
+     * It returns the overall detailed information of the
+     * PHP environment.
+     */
+    phpinfo();
+    ?>
 </body>
 </html>
